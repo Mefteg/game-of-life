@@ -3,6 +3,8 @@ game-of-life
 
 Game of life in Python with ncurses
 
+![game_of_life](https://raw.githubusercontent.com/Mefteg/game-of-life/master/scr-game_of_life-01.png "Game of Life")
+
 Launch
 ------
 
